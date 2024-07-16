@@ -1,3 +1,4 @@
+//Login Page Actions
 const loginElementsLocators = require('../PageElements/LoginPageElements.json')
 
 export class loginPageElements {
